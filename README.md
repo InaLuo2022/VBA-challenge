@@ -22,4 +22,4 @@ Notes: Due to the huge volume of data, this may take 5-8 minutes to complete the
 ## Steps to run VBA Scripts – Stock_Greatest.vbs
 1.	Please run the VBA Scripts – Stock_Performance.vbs firstly
 2.	Import “Stock_Greatest.vbs” to the Multiple_year_stock_data.xlsx file and run the module.
-Notes: The VBA Script may take about 2 minutes to complete its calculation.
+Notes: The VBA Script may take about 5 minutes to complete its calculation.
